@@ -1,0 +1,23 @@
+@media screen and (max-width:700px) {
+.brands{
+    margin: 0;
+}
+.brands > #search-text{
+    text-align: center;
+    font-size: 40px;
+}
+.brand-list > a > img{
+    width: 120px;
+ }
+
+.car-types{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.car-types > a > img{
+    width: 180px;
+    
+}
+    
+}

@@ -1,0 +1,40 @@
+.car-specs{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+}
+.car-specs > .car{
+    display: flex;
+    flex-direction: column;
+    border: 20px solid #fff;
+}
+.car-specs > .car > .car-info{
+    display: flex;
+    flex-direction: column;
+    color: black;
+    background-color: #fff;
+}
+.car-specs > .car > .car-info > .info{
+    color:black;
+    background-color: #fff;
+    font-size: 50px;
+}
+.car-info > .car > img{
+    width: 900px;
+}
+.car-specs > .car > .car-info > p{
+    background-color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+}
+.car-specs > .car > .car-info > .price{
+    display: flex;
+    justify-content: center;
+    background-color: #3500d3;
+}
+.car-specs > .car > .car-info > .price > p{
+    font-size: 60px;
+    background-color: #3500d3;
+    color: #fff;
+}

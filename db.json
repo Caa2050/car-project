@@ -1,0 +1,329 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "polo",
+      "brand": "vw",
+      "type":"hatch",
+      "photo":"/assets/vw/polo.jpg",
+      "specs":"painel digital - wireless charger - farois de LED",
+      "value":"R$81.370"
+    },
+    {
+      "id": 2,
+      "name": "virtus",
+      "brand": "vw",
+      "type":"sedan",
+      "photo":"/assets/vw/virtus.jpg",
+      "specs":"farois de LED - porta malas de 521 litros - piloto automatico adapitativo",
+      "value":"R$115.390"
+    },
+    {
+      "id": 3,
+      "name": "nivus",
+      "brand": "vw",
+      "type":"suv",
+      "photo":"/assets/vw/nivus.jpg",
+      "specs":"painel digital - piloto automatico adaptativo - farois de LED ",
+      "value":"R$127.390"
+    },
+    {
+      "id": 4,
+      "name": "t-cross",
+      "brand": "vw",
+      "type":"suv",
+      "photo":"/assets/vw/t-cross.jpg",
+      "specs":"painel digital - vw play - park assist",
+      "value":"R$116.550"
+    },
+    {
+      "id": 5,
+      "name": "taos",
+      "brand": "vw",
+      "type":"suv",
+      "photo":"/assets/vw/taos.jpg",
+      "specs":"IQ. Light - Ambient Light - teto solar panorâmico",
+      "value":"R$186.280"
+    },
+    {
+      "id": 6,
+      "name": "amarok",
+      "brand": "vw",
+      "type":"pickup",
+      "photo":"/assets/vw/amarok.jpg",
+      "specs":"motor v6-258cv - 4x4 em tempo integral - ABS off-road",
+      "value":"R$ 296.860"
+    },
+    {
+      "id": 7,
+      "name": "yaris",
+      "brand": "toyota",
+      "type":"hatch",
+      "photo":"/assets/toyota/yaris.jpg",
+      "specs":"farois de LED - teto solar - sistema de pré-colisão",
+      "value":"R$93.990"
+    },
+    {
+      "id": 8,
+      "name": "corolla",
+      "brand": "toyota",
+      "type":"sedan",
+      "photo":"/assets/toyota/corolla.jpg",
+      "specs":"7 airbags - piloto automatico adaptativo - farol auto automatico",
+      "value":"R$148.990"
+    },
+    {
+      "id": 9,
+      "name": "corolla-cross",
+      "brand": "toyota",
+      "type":"suv",
+      "photo":"/assets/toyota/corolla-cross.jpg",
+      "specs":"alerta de trafego traseiro - assistente de pré-colisão - alerta de mudança de faixa",
+      "value":"R$160.690"
+    },
+    {
+      "id": 10,
+      "name": "hilux",
+      "brand": "toyota",
+      "type":"pickup",
+      "photo":"/assets/toyota/hilux.jpg",
+      "specs":"cameras 360 graus - bancos dianteiros ventilados - piloto automatico adaptativo",
+      "value":"R$242.590"
+    },
+    {
+      "id": 11,
+      "name": "sw4",
+      "brand": "toyota",
+      "type":"suv",
+      "photo":"/assets/toyota/sw4.jpg",
+      "specs":"7 lugares - camera 360 graus - bancos dianteiros ventilados",
+      "value":"R$382.790"
+    },
+    {
+      "id": 12,
+      "name": "renegade",
+      "brand": "jeep",
+      "type":"suv",
+      "photo":"/assets/jeep/renegade.jpg",
+      "specs":"park assist - reconhecimento de placas - monitoramento de ponto cego",
+      "value":"R$125.990"
+    },
+    {
+      "id": 13,
+      "name": "compass",
+      "brand": "jeep",
+      "type":"suv",
+      "photo":"/assets/jeep/compass.jpg",
+      "specs":"painel digital - piloto automatico adaptativo - park assist",
+      "value":"R$176.790"
+    },
+    {
+      "id": 14,
+      "name": "commander",
+      "brand": "jeep",
+      "type":"suv",
+      "photo":"/assets/jeep/commander.jpg",
+      "specs":"7 lugares - som premium - teto solar panoramico",
+      "value":"R$229.990"
+    },
+    {
+      "id": 15,
+      "name": "hb20",
+      "brand": "hyundai",
+      "type":"hatch",
+      "photo":"/assets/hyundai/hb20.jpg",
+      "specs":"painel digital - alerta de ponto cego - detector de fadiga",
+      "value":"R$82.990"
+    },
+    {
+      "id": 16,
+      "name": "hb20s",
+      "brand": "hyundai",
+      "type":"sedan",
+      "photo":"/assets/hyundai/hb20s.jpg",
+      "specs":"painel digital - frenagem autônoma - porta malas de 475l ",
+      "value":"R$85.390"
+    },
+    {
+      "id": 17,
+      "name": "creta",
+      "brand": "hyundai",
+      "type":"suv",
+      "photo":"/assets/hyundai/creta.jpg",
+      "specs":"camera 360 graus - piloto automatico adaptativo - alerta de ponto cego",
+      "value":"R$136.290"
+    },
+    {
+      "id": 18,
+      "name": "city",
+      "brand": "honda",
+      "type":"sedan",
+      "photo":"/assets/honda/city.jpg",
+      "specs":"partida remota - painel digital - porta malas de 519l",
+      "value":"R$117.900"
+    },
+    {
+      "id": 19,
+      "name": "civic",
+      "brand": "honda",
+      "type":"sedan",
+      "photo":"/assets/honda/civic.jpg",
+      "specs":"wireless charger - painel digital - piloto automatico adaptativo",
+      "value":"R$244.900"
+    },
+    {
+      "id": 20,
+      "name": "hrv",
+      "brand": "honda",
+      "type":"suv",
+      "photo":"/assets/honda/hrv.jpg",
+      "specs":"power tailgate - piloto automatico adaptativo - farol auto automatico ",
+      "value":"R$194.800"
+    },
+    {
+      "id": 21,
+      "name": "crv",
+      "brand": "honda",
+      "type":"suv",
+      "photo":"/assets/honda/crv.jpg",
+      "specs":"painel digital - lane watch - heads up display",
+      "value":"R$ 283.366"
+    },
+    {
+      "id": 22,
+      "name": "argo",
+      "brand": "fiat",
+      "type":"hatch",
+      "photo":"/assets/fiat/argo.jpg",
+      "specs":"ar-condicionado digital - keyless entry - central multimidia 7",
+      "value":"R$79.790"
+    },
+    {
+      "id": 23,
+      "name": "cronos",
+      "brand": "fiat",
+      "type":"sedan",
+      "photo":"/assets/fiat/cronos.jpg",
+      "specs":"ar-condicionado digital - keyless entry - central multimidia 7",
+      "value":"R$84.790"
+    },
+    {
+      "id": 24,
+      "name": "pulse",
+      "brand": "fiat",
+      "type":"suv",
+      "photo":"/assets/fiat/pulse.jpg",
+      "specs":"connect me - painel digital - farois de LED ",
+      "value":"R$100.990"
+    },
+    {
+      "id": 25,
+      "name": "strada",
+      "brand": "fiat",
+      "type":"pickup",
+      "photo":"/assets/fiat/strada.jpg",
+      "specs":"ar-condicionado digital - wireless charger - farois de LED",
+      "value":"R$95.990"
+    },
+    {
+      "id": 26,
+      "name":"fastback",
+      "brand":"fiat",
+      "type":"suv",
+      "photo":"/assets/fiat/fastback.jpg",
+      "specs":"Assistente virtual - painel digital - farol auto automatico",
+      "value":"R$119.990"
+    },
+    {
+      "id": 27,
+      "name": "toro",
+      "brand": "fiat",
+      "type":"pickup",
+      "photo":"/assets/fiat/toro.jpg",
+      "specs":"farois de LED - wireless charger - connect me",
+      "value":"R$124.490"
+    },
+    {
+      "id": 28,
+      "name": "cruze",
+      "brand": "chevy",
+      "type":"sedan",
+      "photo":"/assets/chevy/cruze.jpg",
+      "specs":"Onstar - wi-fi nativo - partida remota",
+      "value":"R$149.390"
+    },
+    {
+      "id": 29,
+      "name": "montana",
+      "brand": "chevy",
+      "type":"pickup",
+      "photo":"/assets/chevy/montana.jpg",
+      "specs":"ar-condicionado digital - Onstar - wireless charger",
+      "value":"R$118.690"
+    },
+    {
+      "id": 30,
+      "name": "onix plus",
+      "brand": "chevy",
+      "type":"sedan",
+      "photo":"/assets/chevy/onix-plus.jpg",
+      "specs":"Easy park - alerta de ponto cego - ar-condicionado digital",
+      "value":"R$84.850"
+    },
+    {
+      "id": 31,
+      "name": "onix",
+      "brand": "chevy",
+      "type":"hatch",
+      "photo":"/assets/chevy/onix.jpg",
+      "specs":"Easy park - alerta de ponto cego - ar-condicionado digital",
+      "value":"R$96.890"
+    },
+    {
+      "id": 32,
+      "name": "s10",
+      "brand": "chevy",
+      "type":"pickup",
+      "photo":"/assets/chevy/s10.jpg",
+      "specs":"frenagem autônoma - wi-fi nativo - Onstar",
+      "value":"R$331.990"
+    },
+    {
+      "id": 33,
+      "name": "spin",
+      "brand": "chevy",
+      "type":"suv",
+      "photo":"/assets/chevy/spin.jpg",
+      "specs":"7 lugares - porta malas de até 710l - Onstar",
+      "value":"R$104.540"
+    },
+    {
+      "id": 34,
+      "name": "tracker",
+      "brand": "chevy",
+      "type":"suv",
+      "photo":"/assets/chevy/tracker.jpg",
+      "specs":"wi-fi nativo - teto solar panorâmico - alerta de ponto cego",
+      "value":"R$128.350"
+    },
+    {
+      "id": 35,
+      "name": "trailblazer",
+      "brand": "chevy",
+      "type":"suv",
+      "photo":"/assets/chevy/trailblazer.jpg",
+      "specs":"alerta de colisão frontal - 7 lugares - alerta de mudança de faixa",
+      "value":"R$ 393.430"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

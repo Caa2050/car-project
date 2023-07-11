@@ -1,0 +1,19 @@
+@media screen and (max-width:700px) {
+    .car-specs > .car{
+    width: 350px;
+    }
+    .car-specs > .car > .car-info > .info{
+    font-size: 40px;
+}
+.car-info > .car > img{
+    max-width: 100%;
+}
+.car-specs > .car > .car-info > p{
+    font-size: 30px;
+   
+}
+
+.car-specs > .car > .car-info > .price > p{
+    font-size: 30px;
+}
+}

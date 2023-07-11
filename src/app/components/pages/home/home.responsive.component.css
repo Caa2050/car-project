@@ -1,0 +1,33 @@
+@media screen and (max-width:700px) {
+    .logo > img{
+    width: 350px;
+    }
+    .categorias{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    .categorias > img{
+        width: 180px;
+        margin-bottom: 20px;
+    }
+    .marcas > img{
+        width: 120px;
+    }
+    .mais-vendidos{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .mais-vendidos > .carros{
+        width: 350px;
+        margin-bottom: 20px;
+    }
+    .mais-vendidos > .carros > img{
+        width: 350px;
+    }
+    .mais-vendidos > .carros > p{
+    text-align: center;
+    background-color: #3500d3;
+}
+}

@@ -1,0 +1,40 @@
+.brands{
+    display: flex;
+    flex-direction: column;
+    margin: 40px;
+   
+}
+
+.brands > p{
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+    font-size: 40px;
+}
+.brands  > #search-text{
+    display: flex;
+    margin-bottom: 30px;
+}
+.brand-list{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+.brand-list > a > img{
+    max-width: 220px;
+    margin: 10px;
+}
+
+
+.car-types{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.car-types > a > img{
+    max-width: 280px;
+    margin-top: 30px;
+    border-radius: 20px;
+}

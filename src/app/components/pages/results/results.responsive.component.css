@@ -1,0 +1,28 @@
+@media screen and (max-width:700px) {
+    .car-results{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-content: center;
+    width: 410px;
+    }
+    .car-results > .cars{
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    margin-top: 20px;
+   
+    
+}
+.car-results > .cars> .photo{
+    max-width: 250px;
+
+}
+
+.car-results > .cars > .photo > img{
+    width: 100%;
+}
+
+
+
+}

@@ -1,0 +1,66 @@
+.logo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+.logo > img{
+    width: 400px;
+}
+.logo > p{
+    color: #fff;
+    font-size: larger;
+    font-weight: bolder;
+}
+.categorias{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.categorias > img{
+    width: 280px;
+    border-radius: 20px;
+}
+p{
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+    font-size: 40px;
+}
+
+
+.mais-vendidos{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.mais-vendidos > .carros{
+    width: 400px;
+   
+    
+}
+.mais-vendidos > .carros > img{
+    width: 400px;
+}
+.mais-vendidos > .carros > p{
+    text-align: center;
+    background-color: #3500d3;
+}
+
+.marcas{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.marcas > img {
+    width: 220px;
+    margin: 10px;
+}

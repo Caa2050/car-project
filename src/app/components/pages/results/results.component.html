@@ -1,0 +1,14 @@
+<div class="car-results">
+    <div class="cars" *ngFor="let car of cars">
+        <div class="photo">
+            <img src={{car.photo}} alt="cruze"> 
+        </div>
+        <div class="link">
+            <a routerLink="/{{car.id}}">{{car.brand}} {{car.name}}</a>
+        </div>
+        <div class="price">
+            <p>{{car.value}}</p>
+        </div>
+    </div>
+    
+</div>

@@ -1,0 +1,17 @@
+<div class="car-specs" *ngIf="car">
+   
+    <div class="car">
+        <img src={{car.photo}} alt="">
+            <div class="car-info">
+                <p class="info">Informações</p>
+                <p>Nome: {{car.name}}</p>
+                <p>Marca: {{car.brand}}</p>
+                <p>Tipo: {{car.type}}</p>
+                <p>Itens: {{car.specs}}</p>
+                <div class="price">
+                    <p>{{car.value}}</p>
+                </div>
+            </div>
+    </div>
+    
+</div>
